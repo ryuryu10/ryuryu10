@@ -1,4 +1,4 @@
-![Logo_image](https://i.ibb.co/5Khd1sn/github-logo.png)
+![Logo_image](https://i.ibb.co/HCgdnRh/github-logo.png)
 <div align=center><h1> Hi, I’m Seungwoo Yoo  👋</h1></div>
 ------
 <center>⚔  Tech Stack  ⚔</center>
