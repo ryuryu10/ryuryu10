@@ -1,4 +1,6 @@
-### Hi there 👋 Hello﻿ ⚔⚔
+![Logo_image](https://drive.google.com/uc?export=download&id=1jC9aLzILct3ymTORssHJzTqWZCVAYSpI)
+
+<h2><b><center>⚔ Tech Stack ⚔</center></b></h2>
 
 <!--
 **ryuryu10/ryuryu10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
