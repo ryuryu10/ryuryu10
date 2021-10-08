@@ -1,4 +1,4 @@
-![Logo_image](https://drive.google.com/uc?export=download&id=1jC9aLzILct3ymTORssHJzTqWZCVAYSpI)
+![Logo_image](https://i.ibb.co/5Khd1sn/github-logo.png)
 
 <h2><b><center>⚔ Tech Stack ⚔</center></b></h2>
 
