@@ -19,7 +19,9 @@
   <img src="https://img.shields.io/badge/Discord API-5865F2?style=flat-square&logo=Discord&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=Selenium&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/AutoHotkey-334455?style=flat-square&logo=AutoHotkey&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Tkinter-000000?style=flat-square&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Tkinter-000000?style=flat-square&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/scikit-learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/></a>&nbsp 
 </p>
 
 
