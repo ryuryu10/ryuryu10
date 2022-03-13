@@ -1,5 +1,5 @@
 
-<div align=center><h1> Hi, I’m Seungwoo Yoo  👋</h1></div>
+<div align=center><h1> Hi, I’m Seungwoo Ryu  👋</h1></div>
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 
