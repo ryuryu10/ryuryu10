@@ -25,7 +25,7 @@
 </p>
 <img src="https://wakatime.com/share/@962a6b4f-2dab-48a5-a3ce-778effef031c/d1b41768-c2cb-4879-8a3b-5cab2d5c12b7.svg"/>
 
-<h1 align="center">잠깐.. 난 지금까지 뭘 한거지?</h1>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryuryu10&show_icons=true&theme=default)
 <!--
 **ryuryu10/ryuryu10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
