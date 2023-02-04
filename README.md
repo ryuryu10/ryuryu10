@@ -1,3 +1,4 @@
+<div align=center><h1> Helloooooooo </h1></div><br><br>
 
 <div align=center><h1> Hi, I’m Seungwoo Ryu  👋</h1></div>
 
@@ -23,8 +24,6 @@
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/scikit learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/></a>&nbsp 
 </p>
-<img src="https://wakatime.com/share/@962a6b4f-2dab-48a5-a3ce-778effef031c/d1b41768-c2cb-4879-8a3b-5cab2d5c12b7.svg"/>
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryuryu10&show_icons=true&theme=default)
 <!--
 **ryuryu10/ryuryu10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -40,4 +39,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Metrics](https://metrics.lecoq.io/ryuryu10?template=classic&lines=1&calendar=1&gists=1&traffic=1&achievements=1&wakatime=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&calendar=false&calendar.limit=1&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&traffic=false&gists=false&wakatime=false&wakatime.url=https%3A%2F%2Fwakatime.com&wakatime.user=ryuryu10&wakatime.sections=time%2C%20projects%2C%20projects-graphs%2C%20languages%2C%20languages-graphs%2C%20editors%2C%20os&wakatime.days=7&wakatime.limit=5&wakatime.languages.other=false&wakatime.repositories.visibility=all&config.timezone=Asia%2FSeoul)
