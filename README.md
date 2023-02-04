@@ -24,7 +24,6 @@
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/scikit learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/></a>&nbsp 
 </p>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryuryu10&show_icons=true&theme=default)
 <!--
 **ryuryu10/ryuryu10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
