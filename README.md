@@ -1,4 +1,4 @@
-<div align=center><h1> Helloooooooo </h1></div><br><br>
+<div align=center><h1> Helloooo↗o↘o↗o↘o </h1></div><br><br>
 
 <div align=center><h1> Hi, I’m Seungwoo Ryu  👋</h1></div>
 
@@ -14,7 +14,9 @@
   <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white"/></a>&nbsp 
   <br>
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=SQLite&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Vue.js-#4FC08D?style=flat-square&logo=vuedotjs&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=SQLite&logoColor=white"/></a>&nbsp
+  
   <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Discord API-5865F2?style=flat-square&logo=Discord&logoColor=white"/></a>&nbsp 
